@@ -1,0 +1,16 @@
+{
+    "dir": "ltr",
+    "lang": "en-us",
+    "name": "Ingredient Locator",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "recipme.ml",
+    "short_name": "Ingredient locator",
+    "theme_color": "transparent",
+    "description": "Input ingredients, uses API's to find the ingredients.",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": []
+}
